@@ -1,0 +1,168 @@
+[
+    {
+        "ability": "\u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05d6\u05e8\u05d9\u05dd \u05d1\u05de\u05e9\u05d7\u05e7 [+2 \u05d6\u05e8\u05d9\u05dd]",
+        "edition": "tb",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_baron",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/baron.png?raw=true",
+        "name": "\u05e8\u05d5\u05d6\u05df",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "setup": true,
+        "team": "minion"
+    },
+    {
+        "ability": "\u05d1\u05db\u05dc \u05dc\u05d9\u05dc\u05d4*, \u05ea\u05d1\u05d7\u05e8 \u05e9\u05d7\u05e7\u05df: \u05d4\u05d5\u05d0 \u05de\u05ea. \u05d0\u05dd \u05d1\u05d7\u05e8\u05ea \u05d1\u05e2\u05e6\u05de\u05da \u05d1\u05d3\u05e8\u05da \u05d4\u05d6\u05d5, \u05de\u05e9\u05e8\u05ea \u05d4\u05d5\u05e4\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05d4\u05e9\u05d3\u05d5\u05df.",
+        "edition": "tb",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_imp",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/imp.png?raw=true",
+        "name": "\u05e9\u05d3\u05d5\u05df",
+        "otherNight": 24,
+        "otherNightReminder": "\u05d4\u05e9\u05d3\u05d5\u05df \u05de\u05e6\u05d1\u05d9\u05e2 \u05e2\u05dc \u05e9\u05d7\u05e7\u05df. \u05d4\u05e9\u05d7\u05e7\u05df \u05d4\u05d6\u05d4 \u05de\u05ea. \u05d0\u05dd \u05d4\u05e9\u05d3\u05d5\u05df \u05d1\u05d7\u05e8 \u05d1\u05e2\u05e6\u05de\u05d5 \u05d1\u05d3\u05e8\u05da \u05d4\u05d6\u05d5: \u05ea\u05d7\u05dc\u05d9\u05e3 \u05d0\u05ea \u05d4\u05ea\u05e4\u05e7\u05d9\u05d3 \u05e9\u05dc \u05de\u05e9\u05e8\u05ea \u05d7\u05d9 \u05d0\u05d7\u05d3 \u05e2\u05dd \u05d0\u05e1\u05d9\u05de\u05d5\u05df \u05d4\u05e9\u05d3\u05d5\u05df \u05d4\u05de\u05d9\u05d5\u05ea\u05e8. \u05ea\u05e8\u05d0\u05d4 \u05dc\u05d5 \u05d0\u05ea \u05d0\u05e1\u05d9\u05de\u05d5\u05df \"\u05d0\u05ea\u05d4\" \u05d5\u05d0\u05ea \u05d0\u05e1\u05d9\u05de\u05d5\u05df \u05d4\u05e9\u05d3\u05d5\u05df.",
+        "reminders": [
+            "\u05de\u05ea"
+        ],
+        "setup": false,
+        "team": "demon"
+    },
+    {
+        "ability": "\u05d1\u05db\u05dc \u05dc\u05d9\u05dc\u05d4, \u05ea\u05d1\u05d7\u05e8 2 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd \u05d7\u05d9\u05d9\u05dd (\u05dc\u05d0 \u05d0\u05ea \u05e2\u05e6\u05de\u05da): \u05d0\u05ea\u05d4 \u05dc\u05d5\u05de\u05d3 \u05db\u05de\u05d4 \u05de\u05d4\u05dd \u05e7\u05de\u05d5 \u05d4\u05dc\u05d9\u05dc\u05d4 \u05d1\u05d2\u05dc\u05dc \u05d4\u05d9\u05db\u05d5\u05dc\u05ea \u05e9\u05dc\u05d4\u05dd.",
+        "edition": "bmr",
+        "firstNight": 50,
+        "firstNightReminder": "\u05d4\u05d7\u05d3\u05e8\u05e0\u05d9\u05ea \u05de\u05e6\u05d1\u05d9\u05e2 \u05e2\u05dc \u05e9\u05e0\u05d9 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd. \u05ea\u05e1\u05de\u05df \u05d0\u05ea \u05d4\u05de\u05e1\u05e4\u05e8 (0,1,2) \u05e9\u05dc \u05db\u05de\u05d4 \u05de\u05d4\u05e9\u05d7\u05e7\u05e0\u05d9\u05dd \u05e9\u05e0\u05d1\u05d7\u05e8\u05d5 \u05e7\u05de\u05d5 \u05d1\u05dc\u05d9\u05dc\u05d4 \u05d1\u05d2\u05dc\u05dc \u05d4\u05d9\u05db\u05d5\u05dc\u05ea \u05e9\u05dc\u05d4\u05dd.",
+        "id": "he_IL_chambermaid",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/chambermaid.png?raw=true",
+        "name": "\u05d7\u05d3\u05e8\u05e0\u05d9\u05ea",
+        "otherNight": 70,
+        "otherNightReminder": "\u05d4\u05d7\u05d3\u05e8\u05e0\u05d9\u05ea \u05de\u05e6\u05d1\u05d9\u05e2 \u05e2\u05dc \u05e9\u05e0\u05d9 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd. \u05ea\u05e1\u05de\u05df \u05d0\u05ea \u05d4\u05de\u05e1\u05e4\u05e8 (0,1,2) \u05e9\u05dc \u05db\u05de\u05d4 \u05de\u05d4\u05e9\u05d7\u05e7\u05e0\u05d9\u05dd \u05e9\u05e0\u05d1\u05d7\u05e8\u05d5 \u05e7\u05de\u05d5 \u05d1\u05dc\u05d9\u05dc\u05d4 \u05d1\u05d2\u05dc\u05dc \u05d4\u05d9\u05db\u05d5\u05dc\u05ea \u05e9\u05dc\u05d4\u05dd.",
+        "reminders": [],
+        "setup": false,
+        "team": "townsfolk"
+    },
+    {
+        "ability": "\u05d0\u05dd \u05d4\u05e9\u05d3 \u05d4\u05d5\u05e8\u05d2 \u05d0\u05d5\u05ea\u05da, \u05d0\u05ea\u05d4 \u05dc\u05d5\u05de\u05d3 \u05e9\u05d6\u05d4 \u05d0\u05d7\u05d3 \u05de\u05d1\u05d9\u05df 2 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd.",
+        "edition": "snv",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_sage",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/sage.png?raw=true",
+        "name": "\u05de\u05e9\u05db\u05d9\u05dc",
+        "otherNight": 43,
+        "otherNightReminder": "\u05d0\u05dd \u05d4\u05de\u05e9\u05db\u05d9\u05dc \u05e0\u05d4\u05e8\u05d2 \u05e2\"\u05d9 \u05e9\u05d3: \u05ea\u05e6\u05d1\u05d9\u05e2 \u05e2\u05dc \u05e9\u05e0\u05d9 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd, \u05d0\u05d7\u05d3 \u05de\u05d4\u05dd \u05d4\u05d5\u05d0 \u05d4\u05e9\u05d3.",
+        "reminders": [],
+        "setup": false,
+        "team": "townsfolk"
+    },
+    {
+        "ability": "\u05db\u05e9\u05d0\u05ea\u05d4 \u05dc\u05d5\u05de\u05d3 \u05e9\u05de\u05ea\u05ea, \u05ea\u05d1\u05d7\u05e8 \u05d1\u05e4\u05d5\u05de\u05d1\u05d9 \u05e9\u05d7\u05e7\u05df \u05d7\u05d9 \u05d0\u05d7\u05d3: \u05d0\u05dd \u05d4\u05dd \u05e8\u05e2\u05d9\u05dd, \u05d4\u05e7\u05d1\u05d5\u05e6\u05d4 \u05e9\u05dc\u05da \u05de\u05e4\u05e1\u05d9\u05d3\u05d4.",
+        "edition": "snv",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_klutz",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/klutz.png?raw=true",
+        "name": "\u05e7\u05dc\u05d5\u05e5",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "setup": false,
+        "team": "outsider"
+    },
+    {
+        "ability": "\u05e4\u05e2\u05dd \u05d0\u05d7\u05ea \u05d1\u05de\u05e9\u05d7\u05e7, \u05d1\u05de\u05d4\u05dc\u05da \u05d4\u05d9\u05d5\u05dd, \u05ea\u05e9\u05d0\u05dc \u05d0\u05ea \u05de\u05e1\u05e4\u05e8-\u05d4\u05e1\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd \u05d1\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea \u05e9\u05d0\u05dc\u05d4 \u05e9\u05dc \u05db\u05df \u05d0\u05d5 \u05dc\u05d0.",
+        "edition": "snv",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_artist",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/artist.png?raw=true",
+        "name": "\u05d0\u05de\u05df",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "\u05d0\u05d9\u05df \u05d9\u05db\u05d5\u05dc\u05ea"
+        ],
+        "setup": false,
+        "team": "townsfolk"
+    },
+    {
+        "ability": "\u05d0\u05ea\u05d4 \u05de\u05ea\u05d7\u05d9\u05dc \u05e2\u05dd \u05d4\u05d9\u05d3\u05d9\u05e2\u05d4 \u05e9\u05e9\u05d7\u05e7\u05df \u05d0\u05d7\u05d3 \u05de\u05ea\u05d5\u05da \u05e9\u05e0\u05d9\u05d9\u05dd \u05d0\u05d5 \u05de\u05e9\u05e8\u05ea \u05de\u05e1\u05d5\u05d9\u05dd.",
+        "edition": "tb",
+        "firstNight": 34,
+        "firstNightReminder": "\u05ea\u05e8\u05d0\u05d4 \u05d0\u05e1\u05d9\u05de\u05d5\u05df \u05e9\u05dc \u05de\u05e9\u05e8\u05ea \u05e9\u05e0\u05de\u05e6\u05d0 \u05d1\u05de\u05e9\u05d7\u05e7 \u05dc\u05d7\u05d5\u05e7\u05e8. \u05ea\u05e6\u05d1\u05d9\u05e2 \u05dc\u05e9\u05e0\u05d9 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd, \u05db\u05d0\u05e9\u05e8 \u05d0\u05d7\u05d3 \u05de\u05d4\u05dd \u05d4\u05d5\u05d0 \u05d4\u05d3\u05de\u05d5\u05ea \u05d4\u05d6\u05d5.",
+        "id": "he_IL_investigator",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/investigator.png?raw=true",
+        "name": "\u05d7\u05d5\u05e7\u05e8",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [
+            "\u05dc\u05d0 \u05de\u05e9\u05e8\u05ea",
+            "\u05de\u05e9\u05e8\u05ea"
+        ],
+        "setup": false,
+        "team": "townsfolk"
+    },
+    {
+        "ability": "\u05d0\u05dd \u05d9\u05e9 \u05d9\u05d5\u05ea\u05e8 \u05de5 \u05e9\u05d7\u05e7\u05e0\u05d9\u05dd \u05d7\u05d9\u05d9\u05dd \u05d5\u05d4\u05e9\u05d3 \u05de\u05ea, \u05d0\u05ea \u05d4\u05d5\u05e4\u05db\u05ea \u05dc\u05e9\u05d3 (\u05de\u05d8\u05d9\u05d9\u05dc\u05d9\u05d9\u05dd \u05dc\u05d0 \u05e0\u05d7\u05e9\u05d1\u05d9\u05dd)",
+        "edition": "tb",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_scarletwoman",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/scarletwoman.png?raw=true",
+        "name": "\u05d0\u05e9\u05ea \u05d4\u05d0\u05e8\u05d2\u05de\u05df (\u05e0\u05d5\u05d0\u05e4\u05ea)",
+        "otherNight": 20,
+        "otherNightReminder": "\u05d0\u05dd \u05d0\u05e9\u05ea \u05d4\u05d0\u05e8\u05d2\u05de\u05df \u05d4\u05e4\u05db\u05d4 \u05dc\u05e9\u05d3 \u05d4\u05d9\u05d5\u05dd: \u05ea\u05e8\u05d0\u05d4 \u05dc\u05d4 \u05d0\u05ea \u05e7\u05dc\u05e3 \"\u05d0\u05ea\" \u05d5\u05d0\u05ea \u05d0\u05e1\u05d9\u05de\u05d5\u05df \u05d4\u05e9\u05d3",
+        "reminders": [
+            "\u05e9\u05d3"
+        ],
+        "setup": false,
+        "team": "minion"
+    },
+    {
+        "ability": "\u05d0\u05ea\u05d4 \u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2 \u05e9\u05d0\u05ea\u05d4 \u05e9\u05d9\u05db\u05d5\u05e8. \u05d0\u05ea\u05d4 \u05d7\u05d5\u05e9\u05d1 \u05e9\u05d0\u05ea\u05d4 \u05ea\u05d5\u05e9\u05d1-\u05e2\u05d9\u05d9\u05e8\u05d4, \u05d0\u05d1\u05dc \u05d0\u05ea\u05d4 \u05dc\u05d0.",
+        "edition": "tb",
+        "firstNight": 0,
+        "firstNightReminder": "",
+        "id": "he_IL_drunk",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/drunk.png?raw=true",
+        "name": "\u05e9\u05d9\u05db\u05d5\u05e8",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "remindersGlobal": [
+            "\u05e9\u05d9\u05db\u05d5\u05e8"
+        ],
+        "setup": true,
+        "team": "outsider"
+    },
+    {
+        "ability": "\u05d0\u05ea\u05d4 \u05de\u05ea\u05d7\u05d9\u05dc \u05d1\u05d9\u05d3\u05d9\u05e2\u05d4 \u05e9\u05dc \u05db\u05de\u05d4 \u05e6\u05e2\u05d3\u05d9\u05dd \u05d9\u05e9 \u05de\u05d4\u05e9\u05d3 \u05dc\u05de\u05e9\u05e8\u05ea \u05d4\u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d5.",
+        "edition": "snv",
+        "firstNight": 40,
+        "firstNightReminder": "\u05ea\u05e1\u05de\u05df \u05e2\u05dd \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea (1,2,3,...) \u05db\u05de\u05d4 \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05d4\u05e9\u05d3 \u05e0\u05de\u05e6\u05d0 \u05d4\u05de\u05e9\u05e8\u05ea \u05d4\u05e7\u05e8\u05d5\u05d1 \u05d1\u05d9\u05d5\u05ea\u05e8",
+        "id": "he_IL_clockmaker",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/clockmaker.png?raw=true",
+        "name": "\u05d9\u05e6\u05e8\u05df \u05d4\u05e9\u05e2\u05d5\u05e0\u05d9\u05dd",
+        "otherNight": 0,
+        "otherNightReminder": "",
+        "reminders": [],
+        "setup": false,
+        "team": "townsfolk"
+    },
+    {
+        "ability": "\u05d1\u05db\u05dc \u05dc\u05d9\u05dc\u05d4, \u05d0\u05ea\u05d4 \u05dc\u05d5\u05de\u05d3 \u05db\u05de\u05d4 \u05de\u05d1\u05d9\u05dd 2 \u05d4\u05e9\u05db\u05e0\u05d9\u05dd \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05da \u05d4\u05dd \u05e8\u05e2\u05d9\u05dd.",
+        "edition": "tb",
+        "firstNight": 36,
+        "firstNightReminder": "\u05d4\u05e8\u05d0\u05d4 \u05de\u05e1\u05e4\u05e8 \u05e2\u05dd \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea (0,1,2) \u05e9\u05d0\u05d5\u05de\u05e8 \u05db\u05de\u05d4 \u05e9\u05db\u05e0\u05d9\u05dd \u05d7\u05d9\u05d9\u05dd \u05e8\u05e2\u05d9\u05dd \u05d9\u05e9 \u05dc\u05d0\u05de\u05e4\u05ea",
+        "id": "he_IL_empath",
+        "image": "https://github.com/bra1n/townsquare/blob/main/src/assets/icons/empath.png?raw=true",
+        "name": "\u05d0\u05de\u05e4\u05ea",
+        "otherNight": 53,
+        "otherNightReminder": "\u05d4\u05e8\u05d0\u05d4 \u05de\u05e1\u05e4\u05e8 \u05e2\u05dd \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea (0,1,2) \u05e9\u05d0\u05d5\u05de\u05e8 \u05db\u05de\u05d4 \u05e9\u05db\u05e0\u05d9\u05dd \u05d7\u05d9\u05d9\u05dd \u05e8\u05e2\u05d9\u05dd \u05d9\u05e9 \u05dc\u05d0\u05de\u05e4\u05ea",
+        "reminders": [],
+        "setup": false,
+        "team": "townsfolk"
+    }
+]
